@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-390-new-enterprises-spring-2013/82feda3bb8885c2fdc796e5fc97085b6_2KpOZ9N2QOQ.srt
+file: /media/courses/15-390-new-enterprises-spring-2013/82feda3bb8885c2fdc796e5fc97085b6_2KpOZ9N2QOQ.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 82feda3b-b888-5c2f-dc79-6e5fc97085b6

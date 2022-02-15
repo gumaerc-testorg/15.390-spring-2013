@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Tutorials
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: What is Entrepreneurship'
 uid: f239d806-ba05-2574-9675-dfce247126ef
 video_files:
   archive_url: http://www.archive.org/download/MIT15.390F13/MIT15_390F13_lec01_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/15-390-new-enterprises-spring-2013/0ea78790d8305047809ac5c3a54f83a4_Xcsp0486olY.vtt
+  video_captions_file: /courses/15-390-new-enterprises-spring-2013/0ea78790d8305047809ac5c3a54f83a4_Xcsp0486olY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Xcsp0486olY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/15-390-new-enterprises-spring-2013/13cc1adfd544d607bb885ffff9f4659e_Xcsp0486olY.pdf
+  video_transcript_file: /courses/15-390-new-enterprises-spring-2013/13cc1adfd544d607bb885ffff9f4659e_Xcsp0486olY.pdf
 video_metadata:
   youtube_id: Xcsp0486olY
 ---
