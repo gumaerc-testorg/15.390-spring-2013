@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignment 5
 parent_type: CourseSection
+parent_uid: 08b1c518-5609-dd31-7eee-84d73cb95779
 resourcetype: Document
 title: Competition section evaluation sheet
 uid: 73dd6614-0124-d863-2025-251401ea4bc6

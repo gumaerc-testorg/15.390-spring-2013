@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignment 9
 parent_type: CourseSection
+parent_uid: 8964a99f-c3bc-9d9b-ea16-2d0713facfd3
 resourcetype: Document
 title: Human resources section evaluation sheet
 uid: f0cf9675-fc06-ddc1-f90e-8993efd1ed46

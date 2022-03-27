@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignment 9
 parent_type: CourseSection
+parent_uid: 8964a99f-c3bc-9d9b-ea16-2d0713facfd3
 resourcetype: Document
 title: Financial section evaluation sheet
 uid: b18ec118-ee7a-ebb3-f071-8c0c76178ce4

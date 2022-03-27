@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignment 4
 parent_type: CourseSection
+parent_uid: 1561ff53-0971-ae0d-a113-3b9fc0681a40
 resourcetype: Document
 title: Market definition evaluation sheet
 uid: 0e6e095e-b36e-2582-e9f2-9969982aab0b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignment 7
 parent_type: CourseSection
+parent_uid: decbbc0d-ca0f-829c-eeef-7efa26ed0a51
 resourcetype: Document
 title: Go to market evaluation sheet
 uid: 97594349-2d46-fdc0-bf46-34f81b150aef

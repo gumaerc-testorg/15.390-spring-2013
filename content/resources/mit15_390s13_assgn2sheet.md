@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignment 2
 parent_type: CourseSection
+parent_uid: 49a06342-43bd-6608-1f95-cbbcc0693d27
 resourcetype: Document
 title: Executive summary score sheet
 uid: bf27ca59-2dd8-f212-f2c4-a916d605f608

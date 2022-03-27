@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignment 9
 parent_type: CourseSection
+parent_uid: 8964a99f-c3bc-9d9b-ea16-2d0713facfd3
 resourcetype: Other
 title: Financial_Template.xls
 uid: f5af8dc8-e8cc-2f5f-7634-a99a976d4f56
