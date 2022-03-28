@@ -5,6 +5,7 @@ file: /media/courses/15-390-new-enterprises-spring-2013/023ec58f4ead6e6c219ed264
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 023ec58f-4ead-6e6c-219e-d2645e93e3df

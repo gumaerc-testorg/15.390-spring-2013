@@ -5,6 +5,7 @@ file: /media/courses/15-390-new-enterprises-spring-2013/12a4948348c446191ba52c9f
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 12a49483-48c4-4619-1ba5-2c9fadaa063c

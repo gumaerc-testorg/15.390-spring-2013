@@ -13,7 +13,7 @@ uid: 49a06342-43bd-6608-1f95-cbbcc0693d27
 Assignment 2: Executive Summary (version 1.0)
 ---------------------------------------------
 
-[Executive summary score sheet (PDF)]({{< baseurl >}}/resources/mit15_390s13_assgn2sheet)
+{{< resource_link bf27ca59-2dd8-f212-f2c4-a916d605f608 "Executive summary score sheet (PDF)" >}}
 
 ### Executive Summary
 

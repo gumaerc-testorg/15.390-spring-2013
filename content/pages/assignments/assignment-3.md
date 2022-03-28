@@ -13,7 +13,7 @@ uid: d9ad5e90-df55-33e0-1374-b7936967171c
 Assignment 3: Team Advisor, Description of Target Customer, & Value Proposition (version 1.0)
 ---------------------------------------------------------------------------------------------
 
-[Target customer evaluation sheet (PDF)]({{< baseurl >}}/resources/mit15_390s13_assgn3sheet)
+{{< resource_link 6ab41db7-4394-0c7e-fffc-f3b1547aac02 "Target customer evaluation sheet (PDF)" >}}
 
 ### Team Advisor
 
