@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Tutorials
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Market Segmentation with SensAble Technologies: Part II'
 uid: 878cde3f-738f-a0b2-888b-e8a75b88054c
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Descriptions:** Bill Aulet discusses how he and his team at SensAble conducted market segmentation for their novel 3D imaging technology.
 
 **Instructor:** Bill Aulet
+
+
+

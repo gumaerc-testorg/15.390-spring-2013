@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Tutorials
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Three Ways to Start a Company'
 uid: ea324849-9ab5-6de5-e1da-8c119b58e8ef
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Descriptions:** Discussion of the three key ways to start a company: passion, idea, technology.
 
 **Instructor:** Bill Aulet
+
+
+

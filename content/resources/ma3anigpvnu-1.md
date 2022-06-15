@@ -1,11 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-390-new-enterprises-spring-2013/0258bb85e7308ec0be2057d18ed14ed2_Ma3ANiGPVNU.pdf
+file: /courses/15-390-new-enterprises-spring-2013/0258bb85e7308ec0be2057d18ed14ed2_Ma3ANiGPVNU.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
-parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 0258bb85-e730-8ec0-be20-57d18ed14ed2

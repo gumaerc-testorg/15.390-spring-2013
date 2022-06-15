@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to create face cards
+  to introduce yourself to the class, to post three business ideas on the class forum,
+  to develop a 60-second elevator pitch, and to form teams for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

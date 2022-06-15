@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to create a "go
+  to makret section" of a business plan.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +15,7 @@ uid: decbbc0d-ca0f-829c-eeef-7efa26ed0a51
 Assignment 7: Go To Market Section (Sales, Marketing, Pricing—Version 1.0)
 --------------------------------------------------------------------------
 
-{{< resource_link 97594349-2d46-fdc0-bf46-34f81b150aef "Go to market evaluation sheet (PDF)" >}}
+{{% resource_link 97594349-2d46-fdc0-bf46-34f81b150aef "Go to market evaluation sheet (PDF)" %}}
 
 So far you have determined the target customer, the value proposition, the market opportunity, the product and the competitive advantage. We are now ready to start to determine and finalize your business model to capture value and also your marketing and sales strategy. Specifically we will focus on determining the Life Time Value of an Acquired Customer (LTV) and then the Cost of Customer Acquisition (COCA) so as to determine the fundamental profitability of this business.
 

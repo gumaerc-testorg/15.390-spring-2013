@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to take an entrepreneur
+  to dinner to learn more about what it takes to be an entrepreneur, and to learn
+  to network better.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

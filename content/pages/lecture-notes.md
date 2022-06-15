@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course and
+  the lecture presentations used for each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: a164f7aa-1324-93c6-a11a-a7d54e6f62e1
 ---
@@ -32,7 +33,7 @@ LECTURES
 Course introduction and elements & role of a business plan
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 5ebade7c-c701-4ae6-958b-d5c48e3ff670 "Course introduction and objectives & viable business ideas (PDF)" >}}
+{{% resource_link 5ebade7c-c701-4ae6-958b-d5c48e3ff670 "Course introduction and objectives & viable business ideas (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +45,7 @@ Course introduction and elements & role of a business plan
 Idea generation
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 81092325-1c1e-53be-c983-eab25d30b1e7 "Idea generation (PDF)" >}}
+{{% resource_link 81092325-1c1e-53be-c983-eab25d30b1e7 "Idea generation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +57,7 @@ Idea generation
 Analyzing ideas and inspirations
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 5a7dad77-27d9-7068-bb83-2dfc8a63059d "Idea filtering / sanity check (PDF)" >}}
+{{% resource_link 5a7dad77-27d9-7068-bb83-2dfc8a63059d "Idea filtering / sanity check (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +69,7 @@ Analyzing ideas and inspirations
 Speed dating for team formation
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 156e2be9-01f2-79b7-e33a-ca12b7e40272 "Idea speed dating (PDF)" >}}
+{{% resource_link 156e2be9-01f2-79b7-e33a-ca12b7e40272 "Idea speed dating (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +81,7 @@ Speed dating for team formation
 More team formation and idea refinement
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link d67fe288-d1c2-4f3f-7195-9da8b8fc7a3c "Idea refinement and team formation refinement (PDF)" >}}
+{{% resource_link d67fe288-d1c2-4f3f-7195-9da8b8fc7a3c "Idea refinement and team formation refinement (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +93,7 @@ More team formation and idea refinement
 Market segmentation & primary customer research
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 124cafb4-d95e-da4e-87f2-b3b9fbaabfb7 "Target customer (PDF - 1.2MB)" >}}
+{{% resource_link 124cafb4-d95e-da4e-87f2-b3b9fbaabfb7 "Target customer (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +105,7 @@ Market segmentation & primary customer research
 Moving from the broad list of potential markets to specific targets
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 5e1d0f18-b12c-cbd4-e05f-3fd05295c56a "Market segmentation & how to do primary customer research (PDF)" >}}
+{{% resource_link 5e1d0f18-b12c-cbd4-e05f-3fd05295c56a "Market segmentation & how to do primary customer research (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +117,7 @@ Moving from the broad list of potential markets to specific targets
 Determining what you can do for your customer
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 5332ee29-cca9-50ba-b926-0a8bd2513bdd "What can you do for your customer? (PDF)" >}}
+{{% resource_link 5332ee29-cca9-50ba-b926-0a8bd2513bdd "What can you do for your customer? (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +129,7 @@ Determining what you can do for your customer
 Defining and refining what makes you unique
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link b1406e5b-dcc9-2b8a-4b7f-7c02baf407da "What can you uniquely do for your customer? (PDF)" >}}
+{{% resource_link b1406e5b-dcc9-2b8a-4b7f-7c02baf407da "What can you uniquely do for your customer? (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +153,7 @@ n/a
 Competitive advantage
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link ae8cb25f-96e1-d170-6507-b78a749ec801 "Competition (PDF)" >}}
+{{% resource_link ae8cb25f-96e1-d170-6507-b78a749ec801 "Competition (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +165,7 @@ Competitive advantage
 Business economics part I: Cost of customer acquisition
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link cf8b76be-528d-6380-1b2e-c7e1d3eb5770 "How does your customer acquire your product (PDF - 1.2MB)" >}}
+{{% resource_link cf8b76be-528d-6380-1b2e-c7e1d3eb5770 "How does your customer acquire your product (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +177,7 @@ Business economics part I: Cost of customer acquisition
 COCA examples and discussion
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 1a01df3c-c1f9-7039-3cda-3dccb9e20390 "How do you make money off your product, i.e., how do you capture value? (PDF)" >}}
+{{% resource_link 1a01df3c-c1f9-7039-3cda-3dccb9e20390 "How do you make money off your product, i.e., how do you capture value? (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +189,7 @@ COCA examples and discussion
 How do you make your business economically sustainable & attractive?
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 049308ec-7754-8d9e-8cb9-2a10982e9e73 "Business plans & designing a business model (PDF)" >}}
+{{% resource_link 049308ec-7754-8d9e-8cb9-2a10982e9e73 "Business plans & designing a business model (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +201,7 @@ How do you make your business economically sustainable & attractive?
 Sales and distribution
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 15970374-84fc-1a81-3b57-8c88bc4d993f "Sales and distribution plans (PDF)" >}}
+{{% resource_link 15970374-84fc-1a81-3b57-8c88bc4d993f "Sales and distribution plans (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +225,7 @@ n/a
 How do you design and build your product?
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 41d8fe9b-cb8b-2934-39fb-e2cbc98ffc53 "How do you design and build your product? i.e., let's build something! (PDF)" >}}
+{{% resource_link 41d8fe9b-cb8b-2934-39fb-e2cbc98ffc53 "How do you design and build your product? i.e., let's build something! (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +237,7 @@ How do you design and build your product?
 Nuts and bolts of building your financial statements
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link d7b3a3ac-222c-97de-c3b7-d75e576f126b "Financials (PDF)" >}}
+{{% resource_link d7b3a3ac-222c-97de-c3b7-d75e576f126b "Financials (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +249,7 @@ Nuts and bolts of building your financial statements
 Product definition, development to delivery
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 85d18c5f-1ce4-ade7-415c-75be670dd0c0 "Product development (PDF)" >}}
+{{% resource_link 85d18c5f-1ce4-ade7-415c-75be670dd0c0 "Product development (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +261,7 @@ Product definition, development to delivery
 Legal considerations to start a company
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 76fa2735-b20e-a7ac-a03c-e5c224e4e3b2 "Legal and organizational matters (PDF)" >}}
+{{% resource_link 76fa2735-b20e-a7ac-a03c-e5c224e4e3b2 "Legal and organizational matters (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -272,7 +273,7 @@ Legal considerations to start a company
 Scaling the business, team section & how to present a business plan
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link f76b37e5-7465-64fd-18c5-b6b74a1dcb83 "Scaling the business, team section & how to present a business plan (PDF)" >}}
+{{% resource_link f76b37e5-7465-64fd-18c5-b6b74a1dcb83 "Scaling the business, team section & how to present a business plan (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -284,7 +285,7 @@ Scaling the business, team section & how to present a business plan
 Troubles ahead
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link bd7044b8-2007-82e2-87bf-514ae03b93eb "How to help an entrepreneurial company; entrepreneurial finance (PDF)" >}}
+{{% resource_link bd7044b8-2007-82e2-87bf-514ae03b93eb "How to help an entrepreneurial company; entrepreneurial finance (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

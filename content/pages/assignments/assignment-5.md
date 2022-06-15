@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to create a competitive
+  advantage section for a business plan.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +15,7 @@ uid: 08b1c518-5609-dd31-7eee-84d73cb95779
 Assignment 5: Competitive Advantage Section (Version 1.0)
 ---------------------------------------------------------
 
-{{< resource_link 73dd6614-0124-d863-2025-251401ea4bc6 "Competition section evaluation sheet (PDF)" >}}
+{{% resource_link 73dd6614-0124-d863-2025-251401ea4bc6 "Competition section evaluation sheet (PDF)" %}}
 
 Now that the target customer, value proposition, market opportunity and product are clear, success appears to be on the horizon, but it would be a shame to create a great opportunity and then have someone else swoop in and realize the financial and other rewards of all of this hard work. A strategy needs to be formulated to ensure that your team's competitive advantage will allow you to reap the fruits of your hard and smart labor. In the Competitive Advantage section you will want to cover things like:
 

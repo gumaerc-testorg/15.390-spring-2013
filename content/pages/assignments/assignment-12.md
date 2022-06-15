@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to assemble a business
+  plan.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +15,7 @@ uid: 91c53cf2-d016-0ff5-97b4-c9c2f62889d1
 Assignment 12: Final Paper
 --------------------------
 
-{{< resource_link ba6cb9b8-4a00-386a-6f18-c13492b541bb "Final business plan evaluation sheet (PDF)" >}}
+{{% resource_link ba6cb9b8-4a00-386a-6f18-c13492b541bb "Final business plan evaluation sheet (PDF)" %}}
 
 This is an amalgamation of your market analysis/segmentation and competition, your product and manufacturing plan, your sales plan, your financial plan, and your marketing plan. It takes from Assignments 1–9, with a special emphasis of tying all the revenue/expenses to a timeline. It is a refinement of all the assignments in the course and all that has been learned otherwise over the semester, woven into one consistent and compelling plan for an innovation-based new venture. The business plan should be no more than 20 pages single-spaced with half-inch margins, including all appendices, charts, graphs, exhibits, etc.
 

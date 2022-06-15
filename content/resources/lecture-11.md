@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Tutorials
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: From Passion to Idea or Technology'
 uid: fcfb8df9-c7f5-c220-1d68-e16a2a2d07c4
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Descriptions:** Discussion of a method that you can pursue to go from passion to idea or technology, and key questions that you should ask yourself as you make that leap.
 
 **Instructor:** Bill Aulet
+
+
+

@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and overview, and
+  information on meeting times, course components, assignments, readings, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: d82ec16a-0e12-f2f1-3f89-cbefe1a53752
 ---
@@ -46,7 +47,7 @@ Course Components and Assignment Overview
 
 ### Take an Entrepreneur to Dinner
 
-**What:** Interview an entrepreneur to understand what entrepreneurship is like "in real life." See additional details regarding the assignment in the {{< resource_link b7fd99ca-2813-ae60-5f4d-b1f25cb7b022 "Assignments" >}} section .
+**What:** Interview an entrepreneur to understand what entrepreneurship is like "in real life." See additional details regarding the assignment in the {{% resource_link b7fd99ca-2813-ae60-5f4d-b1f25cb7b022 "Assignments" %}} section .
 
 **Preparation:** Keep in mind the due date for this assignment and request a meeting with an entrepreneur in advance.
 
@@ -71,7 +72,7 @@ The primary textbook for this course is an organic handbook by Bill Aulet: _Disc
 
 Most classes will start with a mini case that will be made available online and/or sent out via e-mail before class. Additional readings will also be distributed online throughout the semester. For these, we expect students to come to class prepared to discuss the readings. Familiarity with the readings will count toward class participation.
 
-See the {{< resource_link 1fdf7afa-7f86-2c4d-5ee6-de6bf6b8134c "Readings" >}} section for a list of reading assignments.
+See the {{% resource_link 1fdf7afa-7f86-2c4d-5ee6-de6bf6b8134c "Readings" %}} section for a list of reading assignments.
 
 Grading
 -------

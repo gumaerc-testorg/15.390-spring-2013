@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to write a first
+  draft of an executive summary of a business plan.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +15,7 @@ uid: 49a06342-43bd-6608-1f95-cbbcc0693d27
 Assignment 2: Executive Summary (version 1.0)
 ---------------------------------------------
 
-{{< resource_link bf27ca59-2dd8-f212-f2c4-a916d605f608 "Executive summary score sheet (PDF)" >}}
+{{% resource_link bf27ca59-2dd8-f212-f2c4-a916d605f608 "Executive summary score sheet (PDF)" %}}
 
 ### Executive Summary
 

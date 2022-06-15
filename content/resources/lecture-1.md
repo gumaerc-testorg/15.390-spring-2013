@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Tutorials
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: What is Entrepreneurship'
 uid: f239d806-ba05-2574-9675-dfce247126ef
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Descriptions:** In this video, two dramatically different types of entrepreneurship, Small and Medium Enterprise Entrepreneurship (SME) and Innovation Driven Enterprise Entrepreneurship (IDE) are discussed as well as what this distinction means for aspiring entrepreneurs.
 
 **Instructor:** Bill Aulet
+
+
+

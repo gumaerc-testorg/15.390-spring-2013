@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Tutorials
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: What is a Beachhead Market'
 uid: b0d16b7c-7dd2-3b54-ab9b-6114314eda0a
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Descriptions:** Description of the concept of the beachhead market, and its importance and place in the entrepreneurial journey.
 
 **Instructor:** Bill Aulet
+
+
+

@@ -1,9 +1,11 @@
 ---
 content_type: video_gallery
+description: 'This section contains 12 videos that provide a glance at what students
+  at MIT are learning about entrepreneurship and innovation: Bill Aulet talks about
+  key steps to launching a successful startup.'
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Video Tutorials
 uid: efb66df9-2f15-6fe1-4f19-87cc73a98987
 videos:

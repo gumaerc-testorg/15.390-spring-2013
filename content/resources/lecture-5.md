@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Tutorials
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Six Myths of Entrepreneurship'
 uid: a4aad08e-96f2-c4cf-1444-451a0b487d1c
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Descriptions:** Discussion of the six key myths around entrepreneurship, such as "Entrepreneurs are undisciplined," "Entrepreneurs are all about charisma," and more. Uncover key myths about entrepreneurship that after often not just untrue, but also unproductive.
 
 **Instructor:** Bill Aulet
+
+
+

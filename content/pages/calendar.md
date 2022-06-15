@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, student presentations,
+  and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 99edeb56-bfa8-2dba-d0d7-80bb9ab55e0e
 ---
@@ -55,7 +56,7 @@ Idea generation
 Analyzing ideas and inspirations
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 1A due]({{< baseurl >}}/pages/assignments/assignment-1#Assignment_1A)
+{{% resource_link f6c177f0-bed7-88fd-e20f-a13f65a20945 "Assignment 1A due" "#Assignment_1A" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Analyzing ideas and inspirations
 Speed dating for team formation
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 1B due]({{< baseurl >}}/pages/assignments/assignment-1#Assignment_1B)
+{{% resource_link f6c177f0-bed7-88fd-e20f-a13f65a20945 "Assignment 1B due" "#Assignment_1B" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ More team formation and idea refinement
 Market segmentation & primary customer research
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 1C due]({{< baseurl >}}/pages/assignments/assignment-1#Assignment_1C)
+{{% resource_link f6c177f0-bed7-88fd-e20f-a13f65a20945 "Assignment 1C due" "#Assignment_1C" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Moving from the broad list of potential markets to specific targets
 Determining what you can do for your customer
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 49a06342-43bd-6608-1f95-cbbcc0693d27 "Assignment 2 due" >}}
+{{% resource_link 49a06342-43bd-6608-1f95-cbbcc0693d27 "Assignment 2 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +140,7 @@ Defining and refining what makes you unique
 Simulation lab on marketing plan
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link d9ad5e90-df55-33e0-1374-b7936967171c "Assignment 3 due" >}}
+{{% resource_link d9ad5e90-df55-33e0-1374-b7936967171c "Assignment 3 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +152,7 @@ Simulation lab on marketing plan
 Competitive advantage
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 1561ff53-0971-ae0d-a113-3b9fc0681a40 "Assignment 4 due" >}}
+{{% resource_link 1561ff53-0971-ae0d-a113-3b9fc0681a40 "Assignment 4 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +164,7 @@ Competitive advantage
 Business economics part I: Cost of customer acquisition
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 08b1c518-5609-dd31-7eee-84d73cb95779 "Assignment 5 due" >}}
+{{% resource_link 08b1c518-5609-dd31-7eee-84d73cb95779 "Assignment 5 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +188,7 @@ COCA examples and discussion
 How do you make your business economically sustainable & attractive?
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link f55a4bb9-59ba-5d11-216d-e0c067067c55 "Assignment 6 due" >}}
+{{% resource_link f55a4bb9-59ba-5d11-216d-e0c067067c55 "Assignment 6 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +212,7 @@ Sales and distribution
 Go-to-market simulation lab
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link decbbc0d-ca0f-829c-eeef-7efa26ed0a51 "Assignment 7 due" >}}
+{{% resource_link decbbc0d-ca0f-829c-eeef-7efa26ed0a51 "Assignment 7 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +236,7 @@ How do you design and build your product?
 Nuts and bolts of building your financial statements
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link de3f6598-ba48-62f2-8fb7-7ddbf15c9162 "Assignment 8 due" >}}
+{{% resource_link de3f6598-ba48-62f2-8fb7-7ddbf15c9162 "Assignment 8 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +260,7 @@ Product definition, development to delivery
 Legal considerations to start a company
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 8964a99f-c3bc-9d9b-ea16-2d0713facfd3 "Assignment 9 due" >}}
+{{% resource_link 8964a99f-c3bc-9d9b-ea16-2d0713facfd3 "Assignment 9 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +272,7 @@ Legal considerations to start a company
 Scaling the business, team section & how to present a business plan
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 4797e044-2691-c304-f5e1-f06be7eabf34 "Assignment 10 due" >}}
+{{% resource_link 4797e044-2691-c304-f5e1-f06be7eabf34 "Assignment 10 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +284,7 @@ Scaling the business, team section & how to present a business plan
 Troubles ahead
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link abd29b11-b779-4768-58ec-5b8ee1454538 "Assignment 11 due" >}}
+{{% resource_link abd29b11-b779-4768-58ec-5b8ee1454538 "Assignment 11 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +308,7 @@ Student team presentations
 Student team presentations (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 91c53cf2-d016-0ff5-97b4-c9c2f62889d1 "Assignment 12 due" >}}
+{{% resource_link 91c53cf2-d016-0ff5-97b4-c9c2f62889d1 "Assignment 12 due" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
