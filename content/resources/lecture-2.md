@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Descriptions:** Discussion of the essential difference between invention and innovation, and the important role played by commercialization in innovation.
 
 **Instructor:** Bill Aulet
-
-
 

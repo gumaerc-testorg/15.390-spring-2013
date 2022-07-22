@@ -6,6 +6,7 @@ file: /courses/15-390-new-enterprises-spring-2013/f0cf9675fc06ddc1f90e8993efd1ed
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignment 9
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Human resources section evaluation sheet
 uid: f0cf9675-fc06-ddc1-f90e-8993efd1ed46
 ---
 This file contains information regarding hr section evaluation sheet .
-

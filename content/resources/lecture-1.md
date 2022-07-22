@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Descriptions:** In this video, two dramatically different types of entrepreneurship, Small and Medium Enterprise Entrepreneurship (SME) and Innovation Driven Enterprise Entrepreneurship (IDE) are discussed as well as what this distinction means for aspiring entrepreneurs.
 
 **Instructor:** Bill Aulet
-
-
 

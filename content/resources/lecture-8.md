@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Descriptions:** Bill Aulet discusses of why he and others at MIT are so passionate about entrepreneurship, and why entrepreneurship is an important tool for solving some of society's key problems from energy to healthcare to education.
 
 **Instructor:** Bill Aulet
-
-
 

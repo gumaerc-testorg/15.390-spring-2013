@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Descriptions:** Discussion of a method that you can pursue to go from passion to idea or technology, and key questions that you should ask yourself as you make that leap.
 
 **Instructor:** Bill Aulet
-
-
 

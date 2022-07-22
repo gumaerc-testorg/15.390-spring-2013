@@ -5,6 +5,7 @@ file: /courses/15-390-new-enterprises-spring-2013/73dd66140124d8632025251401ea4b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignment 5
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Competition section evaluation sheet
 uid: 73dd6614-0124-d863-2025-251401ea4bc6
 ---
 This file contains information regarding assignment 5.
-

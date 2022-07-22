@@ -5,6 +5,7 @@ file: /courses/15-390-new-enterprises-spring-2013/803e3bfdde9220ab786fe8483f6201
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignment 6
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Customer acquisition evaluation sheet
 uid: 803e3bfd-de92-20ab-786f-e8483f620184
 ---
 This file contains information regarding assignment 6.
-
