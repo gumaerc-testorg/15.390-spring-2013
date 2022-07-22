@@ -1,6 +1,13 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to take an entrepreneur
+  to dinner to learn more about what it takes to be an entrepreneur, and to learn
+  to network better.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b7fd99ca-2813-ae60-5f4d-b1f25cb7b022
 title: Assignment 11
 uid: abd29b11-b779-4768-58ec-5b8ee1454538

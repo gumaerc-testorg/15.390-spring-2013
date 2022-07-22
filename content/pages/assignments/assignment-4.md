@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment on market definition.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b7fd99ca-2813-ae60-5f4d-b1f25cb7b022
 title: Assignment 4
 uid: 1561ff53-0971-ae0d-a113-3b9fc0681a40
@@ -9,7 +14,7 @@ uid: 1561ff53-0971-ae0d-a113-3b9fc0681a40
 Assignment 4: Market Definition Section (version 1.0)
 -----------------------------------------------------
 
-[Market definition evaluation sheet (PDF)]({{< baseurl >}}/resources/mit15_390s13_assgn4sheet)
+{{% resource_link 0e6e095e-b36e-2582-e9f2-9969982aab0b "Market definition evaluation sheet (PDF)" %}}
 
 Use both your extensive primary market research ("bottom-up") as well as "top-down" sources—the Internet, trade magazines, trade shows, Dewey library resources, etc. to figure out what the current market is for your product/service, and what options they have with regard to your solution.
 

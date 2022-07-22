@@ -1,6 +1,13 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to find a team adviser,
+  prepare a description of a target customer, and create slides to articulate your
+  company's value proposition.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b7fd99ca-2813-ae60-5f4d-b1f25cb7b022
 title: Assignment 3
 uid: d9ad5e90-df55-33e0-1374-b7936967171c
@@ -9,7 +16,7 @@ uid: d9ad5e90-df55-33e0-1374-b7936967171c
 Assignment 3: Team Advisor, Description of Target Customer, & Value Proposition (version 1.0)
 ---------------------------------------------------------------------------------------------
 
-[Target customer evaluation sheet (PDF)]({{< baseurl >}}/resources/mit15_390s13_assgn3sheet)
+{{% resource_link 6ab41db7-4394-0c7e-fffc-f3b1547aac02 "Target customer evaluation sheet (PDF)" %}}
 
 ### Team Advisor
 

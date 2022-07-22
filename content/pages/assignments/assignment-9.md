@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to create a financial
+  section and a human resources section for a business plan.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b7fd99ca-2813-ae60-5f4d-b1f25cb7b022
 title: Assignment 9
 uid: 8964a99f-c3bc-9d9b-ea16-2d0713facfd3
@@ -9,11 +15,11 @@ uid: 8964a99f-c3bc-9d9b-ea16-2d0713facfd3
 Assignment 9: Financial Section (version 1.0) and Human Resources Section (Version 1.0)
 ---------------------------------------------------------------------------------------
 
-[Financial section evaluation sheet (PDF)]({{< baseurl >}}/resources/mit15_390s13_assgn9finsheet)
+{{% resource_link b18ec118-ee7a-ebb3-f071-8c0c76178ce4 "Financial section evaluation sheet (PDF)" %}}
 
-[HR section evaluation sheet (PDF)]({{< baseurl >}}/resources/mit15_390s13_hrsectsheet)
+{{% resource_link f0cf9675-fc06-ddc1-f90e-8993efd1ed46 "HR section evaluation sheet (PDF)" %}}
 
-[Financial template (XLS)]({{< baseurl >}}/resources/financial_template)
+{{% resource_link f5af8dc8-e8cc-2f5f-7634-a99a976d4f56 "Financial template (XLS)" %}}
 
 Financial Section
 -----------------

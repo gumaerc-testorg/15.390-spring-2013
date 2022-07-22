@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to create a product
+  section for a business plan.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b7fd99ca-2813-ae60-5f4d-b1f25cb7b022
 title: Assignment 8
 uid: de3f6598-ba48-62f2-8fb7-7ddbf15c9162
@@ -9,7 +15,7 @@ uid: de3f6598-ba48-62f2-8fb7-7ddbf15c9162
 Assignment 8: Product Section (Version 1.0)
 -------------------------------------------
 
-[Product section evaluation sheet (PDF)]({{< baseurl >}}/resources/mit15_390s13_assgn8sheet)
+{{% resource_link 44dd06c6-72d1-4343-3893-4f42146976f5 "Product section evaluation sheet (PDF)" %}}
 
 Now that the target customer, value proposition and market opportunity are clear, it is time to focus on the product and your team's competitive advantage. In the product section you get to tell us about your product. You will want to cover things like:
 

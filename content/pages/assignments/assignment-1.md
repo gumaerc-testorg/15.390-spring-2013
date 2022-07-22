@@ -1,6 +1,13 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to create face cards
+  to introduce yourself to the class, to post three business ideas on the class forum,
+  to develop a 60-second elevator pitch, and to form teams for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b7fd99ca-2813-ae60-5f4d-b1f25cb7b022
 title: Assignment 1
 uid: f6c177f0-bed7-88fd-e20f-a13f65a20945
