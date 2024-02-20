@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding assignment 4.
 file: /courses/15-390-new-enterprises-spring-2013/0e6e095eb36e2582e9f29969982aab0b_MIT15_390S13_assgn4sheet.pdf
+file_size: 241640
 file_type: application/pdf
 learning_resource_types:
 - Assignments
