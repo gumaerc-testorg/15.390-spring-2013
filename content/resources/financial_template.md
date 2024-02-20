@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file related to financial template.
 file: /courses/15-390-new-enterprises-spring-2013/f5af8dc8e8cc2f5f7634a99a976d4f56_Financial_Template.xls
+file_size: 99840
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Assignments

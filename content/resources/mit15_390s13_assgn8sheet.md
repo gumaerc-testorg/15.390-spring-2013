@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding assignment 8.
 file: /courses/15-390-new-enterprises-spring-2013/44dd06c672d1434338934f42146976f5_MIT15_390S13_assgn8sheet.pdf
+file_size: 719276
 file_type: application/pdf
 learning_resource_types:
 - Assignments
