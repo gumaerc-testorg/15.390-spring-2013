@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-390-new-enterprises-spring-2013/b2d693b9495708b3e0d1f7209810630e_oD7X3KvJAVk.pdf
+file_size: 15717
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
