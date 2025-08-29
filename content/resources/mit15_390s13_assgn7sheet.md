@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding assignment 7.
-file: /courses/15-390-new-enterprises-spring-2013/975943492d46fdc0bf4634f81b150aef_MIT15_390S13_assgn7sheet.pdf
+file: /ol-ocw-studio-app/courses/15-390-new-enterprises-spring-2013/975943492d46fdc0bf4634f81b150aef_MIT15_390S13_assgn7sheet.pdf
 file_size: 250152
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-390-new-enterprises-spring-2013/01ea5559713651a8ad8f548f08a4771d_2KpOZ9N2QOQ.vtt
+file: /ol-ocw-studio-app/courses/15-390-new-enterprises-spring-2013/01ea5559713651a8ad8f548f08a4771d_2KpOZ9N2QOQ.vtt
 file_size: 3584
 file_type: application/x-subrip
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding hr section evaluation sheet
   .
-file: /courses/15-390-new-enterprises-spring-2013/f0cf9675fc06ddc1f90e8993efd1ed46_MIT15_390S13_hrsectsheet.pdf
+file: /ol-ocw-studio-app/courses/15-390-new-enterprises-spring-2013/f0cf9675fc06ddc1f90e8993efd1ed46_MIT15_390S13_hrsectsheet.pdf
 file_size: 217040
 file_type: application/pdf
 learning_resource_types:
