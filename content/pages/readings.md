@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Readings
 uid: 1fdf7afa-7f86-2c4d-5ee6-de6bf6b8134c
 ---
-\[Aulet\] = Aulet, Bill. *Disciplined Entrepreneurship: 24 Steps to a Successful Startup*. Wiley, 2013. ISBN: 9781118692288. \[Preview with {{% resource_link "1d233217-6d9c-48a9-a2cf-1ed1e184a450" "Google Books" %}}\]
+\[Aulet\] = Aulet, Bill. *Disciplined Entrepreneurship: 24 Steps to a Successful Startup*. Wiley, 2013. ISBN: 9781118692288. \[Preview with [Google Books](http://books.google.com/books?id=ff9vAAAAQBAJ&pg=Pafrontcover)\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -38,12 +38,12 @@ Mini case study
 Analyzing ideas and inspirations
 {{< tdclose >}}{{< tdopen >}}
 
-Watch Video and take notes on: TEDxTalks. "TEDxVictoria - Dave Morris: The Way of Improvisation." January 7, 2012. YouTube. Accessed on December 16, 2013. {{% resource_link "9213d393-173c-4fac-9335-42d4512fed44" "http://www.youtube.com/watch?v=MUO-pWJ0riQ" %}}
+Watch Video and take notes on: TEDxTalks. "TEDxVictoria - Dave Morris: The Way of Improvisation." January 7, 2012. YouTube. Accessed on December 16, 2013. [http://www.youtube.com/watch?v=MUO-pWJ0riQ](http://www.youtube.com/watch?v=MUO-pWJ0riQ)
 
 Watch the IDEO video "Deep Dive" Parts 1 & 2 on YouTube, and especially focus on the beginning of Part 2 on brainstorming:
 
-- Part 1: innovatus. "The Deep Dive - Part 1 of 3." March 30, 2010. YouTube. Accessed on December 16, 2013.  {{% resource_link "d603ad95-16fa-426b-8b42-59d69ccfa69f" "http://www.youtube.com/watch?v=JkHOxyafGpE" %}}
-- Part 2: innovatus. "The Deep Dive - Part 2 of 3." March 30, 2010. YouTube. Accessed on December 16, 2013. {{% resource_link "b86d45cb-91f3-4f95-96e6-879bb84d7039" "http://www.youtube.com/watch?v=pVZ8pmkg1do&feature=relmfu" %}}
+- Part 1: innovatus. "The Deep Dive - Part 1 of 3." March 30, 2010. YouTube. Accessed on December 16, 2013.  [http://www.youtube.com/watch?v=JkHOxyafGpE](http://www.youtube.com/watch?v=JkHOxyafGpE)
+- Part 2: innovatus. "The Deep Dive - Part 2 of 3." March 30, 2010. YouTube. Accessed on December 16, 2013. [http://www.youtube.com/watch?v=pVZ8pmkg1do&feature=relmfu](http://www.youtube.com/watch?v=pVZ8pmkg1do&feature=relmfu)
 
 Mini case study
 
@@ -121,10 +121,10 @@ Business economics part I: Cost of customer acquisition
 
 David Skok's blog posts:
 
-- Skok, David. "Startup Killer: The Cost of Customer Acquisition." *for Entrepreneurs* (blog). December 22, 2009. {{% resource_link "ce2d1bad-9f13-420d-b7e2-8eeee73f71ca" "www.forentrepreneurs.com/startup-killer/" %}}
-- Skok, David. "Building the Machine." *for Entrepreneurs* (blog). {{% resource_link "643b0e72-541d-42fd-98e4-af363ec37cee" "www.forentrepreneurs.com/sales-marketing-machine/building-the-machine/" %}}
+- Skok, David. "Startup Killer: The Cost of Customer Acquisition." *for Entrepreneurs* (blog). December 22, 2009. [www.forentrepreneurs.com/startup-killer/](http://www.forentrepreneurs.com/startup-killer/)
+- Skok, David. "Building the Machine." *for Entrepreneurs* (blog). [www.forentrepreneurs.com/sales-marketing-machine/building-the-machine/](http://www.forentrepreneurs.com/sales-marketing-machine/building-the-machine/)
 
-Halligan, Brian, and Dharmesh Shah. Foreword and chapters 1–2 in *Inbound Marketing: Get Found Using Google, Social media, and Blogs*. Wiley, 2009. ISBN: 9780470499313. \[Preview with {{% resource_link "1e127fcf-f46a-477a-b04e-1cd3693314cf" "Google Books" %}}\]
+Halligan, Brian, and Dharmesh Shah. Foreword and chapters 1–2 in *Inbound Marketing: Get Found Using Google, Social media, and Blogs*. Wiley, 2009. ISBN: 9780470499313. \[Preview with [Google Books](http://books.google.com/books?id=VKwD8lKzeEoC&pg=PA3#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -140,7 +140,7 @@ How do you make your business economically sustainable & attractive?
 
 \[Aulet\] Steps 15–17, and 19.
 
-Article: Needleman, Sarah E. and Angus Loten. "When Freemium Fails." *The Wall Street Journal* (WSJ.com). August 22, 2012. {{% resource_link "c71030b8-b5a8-4f27-b45c-fc8aab930e36" "online.wsj.com/article/SB10000872396390443713704577603782317318996.html" %}}
+Article: Needleman, Sarah E. and Angus Loten. "When Freemium Fails." *The Wall Street Journal* (WSJ.com). August 22, 2012. [online.wsj.com/article/SB10000872396390443713704577603782317318996.html](http://online.wsj.com/article/SB10000872396390443713704577603782317318996.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
